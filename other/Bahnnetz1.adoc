@@ -35,7 +35,7 @@ Graphdatenbanken kommen insbesondere dann in Frage, wenn eine Modellierung in Gr
 == Graph Data Model
 
 Das Schienennetz kann als ein Graphenmodell dargestellt werden. Das Gleisnetz auf Basis der DfA-Daten wird als Gleis- und Weichen-Knoten dargestellt, die den Daten entsprechend verbunden sind.
-image::https://raw.github.com/neo4j-contrib/gists/master/other/images/BankFraud-1.png[Bank Fraud]
+image::https://raw.github.com/neo4j-contrib/gists/master/other/images/BankFraud-1.png[Schiennetzmodell]
 
 Die Eigenschaften für den Gleis- und Weichenknoten sind die Attribute Anfangskilome-ter, Gleisstrangkategorie, Endkilometer, Länge, X,Y,Z – Koordinaten, GS_Status. 
 
